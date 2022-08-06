@@ -13,6 +13,7 @@ Technical Skills
 
 - Python
 - Tableau
+- Power BI
 - Google Studio
 - Microsoft Excel
 - Google Sheets
