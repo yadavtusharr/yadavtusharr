@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate with like minded people.
 - 📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/tushar-yadav-83647917b/
 
-Core Competencies:
-
-- Data Analysis
-- Data Visualization
-
 Technical Skills
 
 - Python
