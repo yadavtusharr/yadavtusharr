@@ -12,6 +12,7 @@ Technical Skills
 - Google Studio
 - Microsoft Excel
 - Google Sheets
+- Machine Learning
 <!---
 yadavtusharr/yadavtusharr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
