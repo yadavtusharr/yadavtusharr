@@ -9,7 +9,6 @@ Technical Skills
 - Python
 - HTML
 - CSS
-- Java Scripts
 - Tableau
 - Power BI
 - Google Studio
